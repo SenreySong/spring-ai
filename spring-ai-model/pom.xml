@@ -23,7 +23,7 @@
 		<artifactId>spring-ai-parent</artifactId>
 		<version>1.1.0-SNAPSHOT</version>
 	</parent>
-	<artifactId>spring-ai-model</artifactId>
+	<artifactId>spring-ai-model-fix</artifactId>
 	<packaging>jar</packaging>
 	<name>Spring AI Model</name>
 	<description>Core model interfaces and classes for Spring AI</description>
